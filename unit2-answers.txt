@@ -1,0 +1,58 @@
+## Socket Programming General True or False Statements
+# Question 'ab': True or false: The connect() function for the C programming language is used by a server to connect to a client
+ab=
+# Question 'ac': True or false: The recv() function for the C programming language is less flexible than the recvfrom() function.
+ac=
+# Question 'ad': True or false: The send() function for the C programming language performs the same function as write(), but without the possibility to set flags.
+ad=
+# Question 'ae': True or false: Socket programming refers to programming using the network sockets software abstraction
+ae=
+# Question 'af': True or false: The accept() function for the C programming language accepts all waiting network sockets each time it is called.
+af=
+# Question 'ag': True or false: The accept() function for the C programming language changes a network socket that is waiting for network connections into an active connection.
+ag=
+# Question 'ah': True or false: The listen() function for the C programming language marks a socket as `passive', ready to accept new connections.
+ah=
+# Question 'ai': True or false: A network socket usually contains addressing information for layer 3 and layer 4
+ai=
+# Question 'aj': True or false: The write() function for the C programming language is used to write the address information into a socket.
+aj=
+# Question 'ak': True or false: The accept() function for the C programming language checks for newly received socket connections.
+ak=
+# Question 'al': True or false: The socket() function for the C programming language sets the address of a network socket
+al=
+# Question 'am': True or false: The bind() function for the C programming language connects a network address to a network address
+am=
+# Question 'an': True or false: The read() function for the C programming language can only be used to read from sockets.
+an=
+# Question 'ao': True or false: The listen() function for the C programming language causes a socket to actively connect via the network to listen for applications that require it.
+ao=
+# Question 'ap': True or false: The read() function for the C programming language can be used on both servers and clients.
+ap=
+## Correct the lines in the supplied programme
+aq=
+ar=
+as=
+at=
+au=
+av=
+aw=
+ax=
+ay=
+az=
+ba=
+bb=
+bc=
+bd=
+be=
+bf=
+## Correct the lines in the supplied programme
+bg=
+bh=
+bi=
+bj=
+bk=
+bl=
+bm=
+bn=
+bo=
