@@ -1,69 +1,69 @@
 ## Specify the OSI Layer to which best matches each statement
 # Question 'ab': Which layer best fits this statement: Responsible for data compression
-ab=
+ab=6
 # Question 'ac': Which layer best fits this statement: Performs symbol encoding and modulation
-ac=
+ac=1
 # Question 'ad': Which layer best fits this statement: Facilitates connectionless communications between nodes on large networks
-ad=
+ad=1
 # Question 'ae': Which layer best fits this statement: Corrects the order of received packets, if they are received out of order
-ae=
+ae=4
 # Question 'af': Which layer best fits this statement: Allows data to be delivered over a variety of underlying network types
-af=
+af=3
 # Question 'ag': Which layer best fits this statement: Ensures that data arrives in the correct order
-ag=
+ag=4
 # Question 'ah': Which layer best fits this statement: Provides globally addressable identifiers for nodes on large networks
-ah=
+ah=2
 # Question 'ai': Which layer best fits this statement: Provides galvanic isolation between nodes on a network
-ai=
+ai=1
 # Question 'aj': Which layer best fits this statement: The layer where virtual circuits can be established
-aj=
+aj=4
 # Question 'ak': Which layer best fits this statement: Responsible for logical link control
-ak=
+ak=2
 # Question 'al': Which layer best fits this statement: Responsible for human-computer interaction
-al=
+al=7
 # Question 'am': Which layer best fits this statement: Establishes the relationship between a network device and transmission medium
-am=
+am=1
 # Question 'an': Which layer best fits this statement: Responsible for selecting the best path between nodes
-an=
+an=3
 # Question 'ao': Which layer best fits this statement: De-duplicates received packets
-ao=
+ao=4
 # Question 'ap': Which layer best fits this statement: The primary layer responsible for reliable delivery of data
-ap=
+ap=4
 # Question 'aq': Which layer best fits this statement: Responsible for synchronising multiple media streams, such as audio and video in a video conference
-aq=
+aq=4
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: Point-to-point tunneling protocol (PPTP)
-ar=
+ar=2
 # Question 'as': To which layer does this protocol correspond?: Consultative Committee for Space Data Systems
-as=
+as=2
 # Question 'at': To which layer does this protocol correspond?: Fibre Channel Protocol (FCP)
-at=
+at=4
 # Question 'au': To which layer does this protocol correspond?: Resilient Packet Ring (RPR)
-au=
+au=2
 # Question 'av': To which layer does this protocol correspond?: Encapsulating Security Payload (ESP)
-av=
+av=4
 # Question 'aw': To which layer does this protocol correspond?: High-Level Data Link Control (HDLC)
-aw=
+aw=2
 # Question 'ax': To which layer does this protocol correspond?: RS-423 (EIA-423)
-ax=
+ax=1
 # Question 'ay': To which layer does this protocol correspond?: Transparent Inter-process Communication (TIPC)
-ay=
+ay=1
 # Question 'az': To which layer does this protocol correspond?: Econet
-az=
+az=2
 # Question 'ba': To which layer does this protocol correspond?: Cisco Discovery Protocol (CDP)
-ba=
+ba=2
 # Question 'bb': To which layer does this protocol correspond?: ITU-T
-bb=
+bb=2
 # Question 'bc': To which layer does this protocol correspond?: Dynamic Trunking Protocol
-bc=
+bc=2
 # Question 'bd': To which layer does this protocol correspond?: TFTP
-bd=
+bd=7
 # Question 'be': To which layer does this protocol correspond?: Point-to-Point Protocol over Ethernet (PPPoE)
-be=
+be=2
 # Question 'bf': To which layer does this protocol correspond?: Message Transfer Part (Q.710)
-bf=
+bf=2
 # Question 'bg': To which layer does this protocol correspond?: iSNS
-bg=
+bg=5
 # Question 'bh': Can applications on nodes 5 and 4 communicate?
 bh=
 # Question 'bi': If an application on node 3 sends 733 bytes of byte, how large would the PDU be at layer 5?
