@@ -65,7 +65,7 @@ bf=2
 # Question 'bg': To which layer does this protocol correspond?: iSNS
 bg=5
 # Question 'bh': Can applications on nodes 5 and 4 communicate?
-bh=
+bh=Y
 # Question 'bi': If an application on node 3 sends 733 bytes of byte, how large would the PDU be at layer 5?
 bi=
 # Question 'bj': What is the data rate that is possible between nodes 3 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
