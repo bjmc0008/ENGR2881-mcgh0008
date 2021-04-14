@@ -96,56 +96,56 @@ bv=True
 # Question 'bw': True or false: A switched network uses a bus topology
 bw=False
 # Question 'bx': True or false: A network is created by the operating system and allocated to the appropriate network application
-bx=
+bx=False
 # Question 'by': True or false: If a layered network model offers multiple different abstractions for one layer, it must also offer alternative abstractions for all layers higher in the network stack
-by=
+by=False
 # Question 'bz': True or false: One of the advantages of the Sliding Window protocol is that lost packets don't slow it down, because multiple packets can be in transit
-bz=
+bz=True
 # Question 'ca': True or false: 802.11 cannot be used to form ad-hoc wireless networks
-ca=
+ca=False
 # Question 'cb': True or false: In the worst case, it can take as many as 512 bits of transmission before collision on an Ethernet can be detected
-cb=
+cb=True
 # Question 'cc': True or false: Spread-spectrum transmission is a requirement for using license-free frequencies in many countries
-cc=
+cc=False
 # Question 'cd': True or false: BISYNC is a byte-oriented framing protocol
-cd=
+cd=True
 # Question 'ce': True or false: CRCs use a polynomial because this allows checking the errors of more bits than with a checksum
-ce=
+ce=True
 # Question 'cf': True or false: Two-dimensional parity is able to catch all 1, 2 and 3 bit errors.
-cf=
+cf=True
 # Question 'cg': True or false: The baud rate of Manchester encoding is half the bit rate
-cg=
+cg=False
 # Question 'ch': True or false: Ethernet is the most successful local area networking technology over recent decades
-ch=
+ch=True
 # Question 'ci': True or false: PPP uses 0x3e as start-of-text character
-ci=
+ci=False
 # Question 'cj': True or false: It is possible for the aggregate throughput through a switch to be many times the maximum bandwidth of each of its ports
-cj=
+cj=True
 # Question 'ck': True or false: Transmission time is the sum of the latency plus propagation time of a packet
-ck=
+ck=False
 # Question 'cl': True or false: For large file transfers latency is more important than bandwidth
-cl=
+cl=False
 # Question 'cm': True or false: The virtual circuit identifier of an incoming packet uniquely identifies the virtual circuit to a switch
-cm=
+cm=True
 # Question 'cn': True or false: HDLC relies on the checksum to detect all framing errors
-cn=
+cn=False
 # Question 'co': True or false: Selective Acknowledgement involves sending ACKS when something that might affect throughput occurs, thus reducing the number of ACKs that need to be sent
-co=
+co=False
 # Question 'cp': True or false: Dis-aggregation of networking software and hardware is hindering the evolution of access networks
-cp=
+cp=False
 # Question 'cq': True or false: A license from an agency like the FCC is required to use any frequency in any frequency band
-cq=
+cq=False
 # Question 'cr': True or false: In 802.11, if a client receives a beacon, it does not need to send a probe frame before sending an access request
-cr=
+cr=True
 # Question 'cs': True or false: HDLC is a bit-oriented data framing protocol
-cs=
+cs=True
 # Question 'ct': True or false: Building and operating networks involves the input of many stakeholders
-ct=
+ct=True
 # Question 'cu': True or false: Detecting that an error has occurred in a frame allows the error to be corrected, because binary values have only two values, allowing the incorrect to be flipped
-cu=
+cu=False
 # Question 'cv': True or false: A high bandwidth delay product increases the complexity of keeping the network fully utilised
-cv=
+cv=False
 # Question 'cw': True or false: Ethernet adaptors use a jamming sequence when they detect collision
-cw=
+cw=True
 # Question 'cx': True or false: host-to-host connectivity is a major goal of computer networks
-cx=
+cx=True
