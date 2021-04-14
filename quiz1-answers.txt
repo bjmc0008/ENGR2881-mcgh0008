@@ -1,100 +1,100 @@
 ## Quiz #1: Chapters 1 to 3
 # Question 'ab': True or false: In a virtual-circuit network, each switch must maintain a table of virtual-circuits
-ab=
+ab=True
 # Question 'ac': True or false: The presentation layer is responsible for the format of data exchanged between peers
-ac=
+ac=True
 # Question 'ad': True or false: If two nodes send an RTS frame at the same time a collision occurs which cannot be detected on an 802.11 network
-ad=
+ad=False
 # Question 'ae': True or false: Direct Sequence is one method of spread-spectrum transmission
-ae=
+ae=True
 # Question 'af': True or false: BISYNC requires the use of data-link escape characters
-af=
+af=True
 # Question 'ag': True or false: 4B/5B encoding allows the encoding of control signals using spare valid 5-bit sequences
-ag=
+ag=True
 # Question 'ah': True or false: The network device driver in an operating system implements the physical layer
-ah=
+ah=False
 # Question 'ai': True or false: When a node wishes to transmit a frame, it must wait for a network adaptor to receive a Clear To Send indication from the connected node
-ai=
+ai=True
 # Question 'aj': True or false: Circuit Switched and Packet Switched are two kinds of switched network
-aj=
+aj=False
 # Question 'ak': True or false: The maximum sequence number must be larger than double the Sending Window Size minus 1
-ak=
+ak=False
 # Question 'al': True or false: Original Ethernet used commonly available cable TV cable, which made it cheaper to deploy
-al=
+al=True
 # Question 'am': True or false: Cloud Networking is a catch-all for parts of the network that you do not control
-am=
+am=False
 # Question 'an': True or false: Fibre-optics typically uses frequencies that are in the X-Ray band
-an=
+an=True
 # Question 'ao': True or false: It is the role of the Network Provider to design a cost-effective network with shareable resources
-ao=
+ao=False
 # Question 'ap': True or false: In 802.11, access points respond to client association requests with an association response frame
-ap=
+ap=True
 # Question 'aq': True or false: The increased conversion of slow software into fast hardware in network devices is a key driver powering network innovation
-aq=
+aq=True
 # Question 'ar': True or false: In an internet protocol graph application protocols appear at the top, and the networks at the bottom
-ar=
+ar=True
 # Question 'as': True or false: To start a client using the socket API the socket(), bind(), listen() and accept() functions must be called
-as=
+as=True
 # Question 'at': True or false: If the additional bits transmitted to provide error detection match a specific expected value, then no error has been detected
-at=
+at=True
 # Question 'au': True or false: Ethernet's superior performance under heavy load conditions compared with alternatives like token ring is why Ethernet has come to dominate LAN deployments
-au=
+au=False
 # Question 'av': True or false: Each time an Ethernet adaptor tries to transmit but fails, the amount of time it waits increases four times longer
-av=
+av=False
 # Question 'aw': True or false: 802.11g is backwards compatible with 802.11a
-aw=
+aw=False
 # Question 'ax': True or false: Protocol means the specifications of a peer-to-peer interface, but never the module that implements the interface, which is instead called the Network Driver
-ax=
+ax=True
 # Question 'ay': True or false: 5G networks trade off latency to obtain higher speeds compared with earlier cellular networks
-ay=
+ay=False
 # Question 'az': True or false: The network API provides the syntax by which network services can be accessed
-az=
+az=True
 # Question 'ba': True or false: Two-dimensional parity is parity performed in two different directions, and also includes the parity of the parity
-ba=
+ba=True
 # Question 'bb': True or false: The Sending Window Size and the Receiving Window Size must be equal
-bb=
+bb=False
 # Question 'bc': True or false: Only four repeaters can be used in a single Ethernet cable path
-bc=
+bc=False
 # Question 'bd': True or false: The socket() call can be used to create both stream and datagram sockets.
-bd=
+bd=True
 # Question 'be': True or false: The ALOHA packet radio network was developed from Ethernet as the pre-cursor to 802.11 Wi-Fi
-be=
+be=True
 # Question 'bf': True or false: The Sliding Window Protocol creates problems for reliability, preservation of order of data and frame control because of its complexity
-bf=
+bf=False
 # Question 'bg': True or false: When an ACK is received, the Last Acknowledgement Received moves to the right, i.e., increases
-bg=
+bg=True
 # Question 'bh': True or false: Switching tables and routing tables are different names for essentially the same structure
-bh=
+bh=False
 # Question 'bi': True or false: In 802.11, one of the measures that reduces the size of RTS and CTS frames is that they do not contain the control header field
-bi=
+bi=True
 # Question 'bj': True or false: The accept() function normally immediately returns with an error if there are no waiting connections
-bj=
+bj=False
 # Question 'bk': True or false: In an Ad-hoc wireless network all nodes are peers
-bk=
+bk=True
 # Question 'bl': True or false: Demodulation is the process of encoding a signal by modifying its frequency, amplitude or phase
-bl=
+bl=True
 # Question 'bm': True or false: If an Ethernet is idle, a node with a frame to send will immediately send it
-bm=
+bm=True
 # Question 'bn': True or false: Signals placed on the Ethernet are directed to the intended receiver only, unless it is a broadcast frame
-bn=
+bn=False
 # Question 'bo': True or false: Collision between Ethernet frames results in a 96-bit ``runt frame''.
-bo=
+bo=True
 # Question 'bp': True or false: It is always true that the longer the range of wireless communications, the lower the data rate
-bp=
+bp=False
 # Question 'bq': True or false: In 802.11, if both DS bits are set to 1, the fourth address field identifies the final destination
-bq=
+bq=False
 # Question 'br': True or false: The hidden node problem is a significant problem for wireless networks
-br=
+br=True
 # Question 'bs': True or false: 4B/5B encoding is less efficient than Manchester encoding, because of the extra bits it has to send
-bs=
+bs=False
 # Question 'bt': True or false: Increasing the bandwidth results in slower transfers, unless there are enough transfers to fill the extra bandwidth
-bt=
+bt=False
 # Question 'bu': True or false: For a host to request a virtual circuit to be established, it is also required that the network administrator configures the virtual circuit
-bu=
+bu=False
 # Question 'bv': True or false: The Internet Protocol error detection algorithm uses ones-complement addition
-bv=
+bv=True
 # Question 'bw': True or false: A switched network uses a bus topology
-bw=
+bw=False
 # Question 'bx': True or false: A network is created by the operating system and allocated to the appropriate network application
 bx=
 # Question 'by': True or false: If a layered network model offers multiple different abstractions for one layer, it must also offer alternative abstractions for all layers higher in the network stack
