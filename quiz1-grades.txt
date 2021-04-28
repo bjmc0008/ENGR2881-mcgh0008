@@ -1,7 +1,7 @@
-quiz1 PROVISIONAL GRADE: F
+quiz1 PROVISIONAL GRADE: CR
 
-NOTE: Changes made after Wed Apr 28 11:30:58 2021 +0930 have not yet been graded.
+NOTE: Changes made after Wed Apr 28 11:52:38 2021 +0930 have not yet been graded.
 
-SUMMARY: 75 true/false and yes/no questions: 0 correct, 75 incorrect.
+SUMMARY: 75 true/false and yes/no questions: 53 correct, 22 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
 
