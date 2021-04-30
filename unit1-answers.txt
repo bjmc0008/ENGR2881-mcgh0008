@@ -65,85 +65,85 @@ bf=2
 # Question 'bg': To which layer does this protocol correspond?: iSNS
 bg=5
 # Question 'bh': Can applications on nodes 5 and 4 communicate?
-bh=Y
+bh=N
 # Question 'bi': If an application on node 3 sends 733 bytes of byte, how large would the PDU be at layer 5?
-bi=
+bi=907
 # Question 'bj': What is the data rate that is possible between nodes 3 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bj=
+bj=796
 # Question 'bk': How many milli-seconds would it take node 3 to send 2619 bytes of data to node 4? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bk=
+bk=1065
 # Question 'bl': Can applications on nodes 2 and 3 communicate?
-bl=
+bl=N
 # Question 'bm': If an application on node 0 sends 610 bytes of byte, how large would the PDU be at layer 3?
-bm=
+bm=830
 # Question 'bn': What is the data rate that is possible between nodes 0 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bn=
+bn=7918
 # Question 'bo': How many milli-seconds would it take node 0 to send 2037 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bo=
+bo=746
 # Question 'bp': Can applications on nodes 1 and 5 communicate?
-bp=
+bp=N
 # Question 'bq': If an application on node 1 sends 623 bytes of byte, how large would the PDU be at layer 7?
-bq=
+bq=723
 # Question 'br': What is the data rate that is possible between nodes 1 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
-br=
+br=7722
 # Question 'bs': How many milli-seconds would it take node 1 to send 1962 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bs=
+bs=1611
 # Question 'bt': Can applications on nodes 2 and 5 communicate?
-bt=
+bt=N
 # Question 'bu': If an application on node 0 sends 127 bytes of byte, how large would the PDU be at layer 2?
-bu=
+bu=353
 # Question 'bv': What is the data rate that is possible between nodes 0 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bv=
+bv=29
 # Question 'bw': How many milli-seconds would it take node 0 to send 8024 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bw=
+bw=3519
 # Question 'bx': Can applications on nodes 1 and 5 communicate?
-bx=
+bx=N
 # Question 'by': If an application on node 3 sends 167 bytes of byte, how large would the PDU be at layer 7?
-by=
+by=206
 # Question 'bz': What is the data rate that is possible between nodes 3 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bz=
+bz=6857
 # Question 'ca': How many milli-seconds would it take node 3 to send 8575 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ca=
+ca=1467
 # Question 'cb': Can applications on nodes 1 and 3 communicate?
-cb=
+cb=N
 # Question 'cc': If an application on node 0 sends 815 bytes of byte, how large would the PDU be at layer 5?
-cc=
+cc=931
 # Question 'cd': What is the data rate that is possible between nodes 0 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cd=
+cd=3769
 # Question 'ce': How many milli-seconds would it take node 0 to send 9251 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ce=
+ce=902
 # Question 'cf': Can applications on nodes 5 and 0 communicate?
-cf=
+cf=N
 # Question 'cg': If an application on node 1 sends 233 bytes of byte, how large would the PDU be at layer 5?
-cg=
+cg=489
 # Question 'ch': What is the data rate that is possible between nodes 1 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
-ch=
+ch=263
 # Question 'ci': How many milli-seconds would it take node 1 to send 6788 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ci=
+ci=1097
 # Question 'cj': Can applications on nodes 5 and 3 communicate?
-cj=
+cj=N
 # Question 'ck': If an application on node 5 sends 576 bytes of byte, how large would the PDU be at layer 2?
-ck=
+ck=847
 # Question 'cl': What is the data rate that is possible between nodes 5 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cl=
+cl=931
 # Question 'cm': How many milli-seconds would it take node 5 to send 953 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cm=
+cm=800
 # Question 'cn': Can applications on nodes 1 and 0 communicate?
-cn=
+cn=Y
 # Question 'co': If an application on node 1 sends 800 bytes of byte, how large would the PDU be at layer 7?
-co=
+co=860
 # Question 'cp': What is the data rate that is possible between nodes 1 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cp=
+cp=2492
 # Question 'cq': How many milli-seconds would it take node 1 to send 7290 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cq=
+cq=883
 # Question 'cr': Can applications on nodes 0 and 2 communicate?
-cr=
+cr=N
 # Question 'cs': If an application on node 5 sends 623 bytes of byte, how large would the PDU be at layer 1?
-cs=
+cs=933
 # Question 'ct': What is the data rate that is possible between nodes 5 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
-ct=
+ct=903
 # Question 'cu': How many milli-seconds would it take node 5 to send 9392 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cu=
+cu=1127
 ## Name and describe five reliability challenges for computer networks, referring to the network layers at which these challenges either arise, or are solved.
 # Question 'cv': Reliability Challenge #0
 cv=
