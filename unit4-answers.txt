@@ -1,0 +1,34 @@
+## Demonstrate an understanding of current methods for secure information transfer}
+# Question 'ab': Write not more than 250 words about 'political/commercial impacts on digital security'
+BEGIN:ab
+END:ab
+# Question 'ac': Write not more than 250 words about 'certificate authorities'
+BEGIN:ac
+END:ac
+## Demonstrate an understanding of emerging methods for secure information transfer}
+# Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
+BEGIN:ad
+END:ad
+## Write statements that are true or false for various lecture slides.
+## Write statements that are true or false for various lecture slides.
+ae=
+# Question 'af': Write a false statement about the content of Slide 17 of Chapter 3
+af=
+# Question 'ag': Write a true statement about the content of Slide 118 of Chapter 3
+ag=
+# Question 'ah': Write a true statement about the content of Slide 131 of Chapter 2
+ah=
+# Question 'ai': Write a true statement about the content of Slide 8 of Chapter 3
+ai=
+# Question 'aj': Write a false statement about the content of Slide 123 of Chapter 2
+aj=
+# Question 'ak': Write a true statement about the content of Slide 63 of Chapter 3
+ak=
+# Question 'al': Write a true statement about the content of Slide 27 of Chapter 5
+al=
+# Question 'am': Write a true statement about the content of Slide 1 of Chapter 3
+am=
+# Question 'an': Write a true statement about the content of Slide 123 of Chapter 2
+an=
+# Question 'ao': Write a true statement about the content of Slide 24 of Chapter 5
+ao=
