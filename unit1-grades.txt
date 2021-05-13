@@ -1,20 +1,19 @@
 unit1 PROVISIONAL GRADE: F
 
-NOTE: Changes made after Tue May 11 09:47:40 2021 +0930 have not yet been graded.
+NOTE: Changes made after Thu May 13 11:51:22 2021 +0930 have not yet been graded.
 
 SUMMARY: 10 true/false and yes/no questions: 8 correct, 2 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          62 normal questions, 55 correct.
          7 long-form questions, grade distribution: Ix7 Fx0 Px0 CRx0 DNx0 HDx0
 
-ANSWERS GRADED I:  cv cw cx cy cz da db
+ANSWERS GRADED UNMARKED: 
 ANSWERS GRADED F:  ad ah aq ay bb cs cu
 ANSWERS GRADED P: 
 ANSWERS GRADED CR:
 ANSWERS GRADED DN:
 ANSWERS GRADED HD:
+ANSWERS GRADED INCOMPLETE: cv cw cx cy cz da db
 
-NOTE: You have one or more answers classified as 'I', which means 'Incomplete.'
-      This can either mean that you haven't supplied an answer to those questions yet,
-      or that I haven't marked those answers yet.  If you have supplied an answer, then
-      please wait patiently, as I will continue to mark all questions as quickly as I can.
+NOTE: You have one or more answers classified as 'INCOMPLETE', which means 'Incomplete.'
+      This means that you have one or more questions that you have not yet answered.
