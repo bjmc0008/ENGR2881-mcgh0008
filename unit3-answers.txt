@@ -80,6 +80,16 @@ bn=f
 bo=f
 # Question 'bp': Define a network that consists of a star network and a tree network connected by a laptop}
 BEGIN:bp
+router1 node1
+router1 node2
+router1 node3
+laptop1 router1
+laptop1 switch1
+switch1 node4
+switch1 node5
+switch1 node6
+switch1 node7
+switch1 node8
 END:bp
 # Question 'bq': Define a network that consists of a ring network and a ring network connected by a bus}
 BEGIN:bq
