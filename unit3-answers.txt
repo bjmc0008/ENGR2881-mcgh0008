@@ -96,15 +96,13 @@ node6 node11
 END:bp
 # Question 'bq': Define a network that consists of a ring network and a ring network connected by a bus}
 BEGIN:bq
-bus1 switch1
-switch1 node1
+bus1 node1
 node1 node2
 node2 node3
 node3 node4
 node4 node5
 node5 node1
-bus1 switch2
-switch2 node7
+bus1 node7
 node7 node8
 node8 node9
 node9 node10
