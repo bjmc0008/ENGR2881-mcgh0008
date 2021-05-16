@@ -393,6 +393,17 @@ switch1 node11
 END:ci
 # Question 'cj': Define a network layout that would be suitable for a Client-Server architecture}
 BEGIN:cj
+router1 wa1
+wa1 laptop4
+wa1 laptop5
+wa1 laptop6
+router1 switch1
+switch1 node1
+switch1 node2
+switch1 node3
+router1 router2
+router1 bus1
+bus1 node4
 END:cj
 # Question 'ck': Describe your network layout that would be suitable for a Client-Server architecture
 BEGIN:ck
