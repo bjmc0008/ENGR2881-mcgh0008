@@ -1,0 +1,151 @@
+## Quiz #2: Chapters 4 to 6
+# Question 'ab': True or false: The TCP destination port field is at byte offset 16 in the TCP header
+ab=
+# Question 'ac': True or false: Assuming a 10ms RTT, the 16-bit advertised window field of the TCP header is sufficient to keep a network link of upto about 26Mbit/sec full
+ac=
+# Question 'ad': True or false: Modern routers allow setting the Jain's Fairness Index to control the fairness of congestion control
+ad=
+# Question 'ae': True or false: Guaranteed-Service in RSVP means that the network should guarantee that all packets of this service class are not to be dropped
+ae=
+# Question 'af': True or false: The original TCP retransmission timeout was based on double the estimated RTT of the network path
+af=
+# Question 'ag': True or false: Merriton's Algorithm is typically used to solve the fairness of resource allocation in networks
+ag=
+# Question 'ah': True or false: The TSpec of a flow is easier to define correctly than the RSpec
+ah=
+# Question 'ai': True or false: Fair Queuing performs bit-by-bit interleaving of packets to ensure fair allocation of network bandwidth
+ai=
+# Question 'aj': True or false: The power of a network is often expresses as the thoughput divided by the delay
+aj=
+# Question 'ak': True or false: TCP is byte-oriented
+ak=
+# Question 'al': True or false: Multi-provider Internet topologies typically involve peering points
+al=
+# Question 'am': True or false: Autonomous Systems refer to the large junction points on the Internet
+am=
+# Question 'an': True or false: Optimality of routes is less important than reachability for inter-domain routing
+an=
+# Question 'ao': True or false: In a feedback-based system, a host sends data, and then waits for feed-back on network conditions, before sending more data
+ao=
+# Question 'ap': True or false: IPv6 includes specific provision for mobility
+ap=
+# Question 'aq': True or false: Packet lengths should be taken into account with Fair Queuing (FQ), to ensure actual fair sharing of bandwidth
+aq=
+# Question 'ar': True or false: Quality-of-Service implies that some packets will be treated differently to others
+ar=
+# Question 'as': True or false: TCP normally buffers enough bytes to fill a reasonable sized packet on the receive side, to reduce the number of times an application must poll for data
+as=
+# Question 'at': True or false: Packet loss is a problem that equally impacts on all real-time applications
+at=
+# Question 'au': True or false: A host may be in multiple multicast groups
+au=
+# Question 'av': True or false: BGP relies on providers being able to trust the advertisements provided by other providers
+av=
+# Question 'aw': True or false: Transport protocols often have to contend with networks delivering duplicate copies of a given message
+aw=
+# Question 'ax': True or false: Multicast allows a sender to send only one packet, and have it be received my multiple recipients
+ax=
+# Question 'ay': True or false: Internet routing is largely divided based on intra-AS and inter-AS routing
+ay=
+# Question 'az': True or false: Transport protocols typically support synchronising sender and receiver
+az=
+# Question 'ba': True or false: Internet Group Management Protcol (IGMP) is used to signal the intent to join or leave a multicast group on IPv6
+ba=
+# Question 'bb': True or false: The DEC Bit is a mechanism for Congestion Avoidance that works by setting a congestion indication bit in packets when network queues grow, thus allowing senders to actively avoid congestion
+bb=
+# Question 'bc': True or false: MPLS, the Multiple Path Link Status protocol, is used to provide traffic engineering to the Internet
+bc=
+# Question 'bd': True or false: The maximum number of unacknowledged bytes in a TCP connection is the maximum of the Advertised Window and Congestion Window
+bd=
+# Question 'be': True or false: Source Specific Multicast is used to specify the kind of content that a host wishes to receive from a particular multicast node
+be=
+# Question 'bf': True or false: Within an Autonomous System, all internal and border routers must run an intra-domain routing protocol
+bf=
+# Question 'bg': True or false: TCP must be able to handle widely varying Round-Trip Times on networks
+bg=
+# Question 'bh': True or false: The Jacobson/Karels algorithm simplifies the TCP retransmission delay, by tracking only the variance in RTT, rather than the RTT itself
+bh=
+# Question 'bi': True or false: "Integrated Services" is a quality-of-service scheme for packet switched IP networks. It does not support reservations
+bi=
+# Question 'bj': True or false: When too many packets are contending for the same link, queues overflow and packets get dropped, resulting in congestion
+bj=
+# Question 'bk': True or false: Mobile IP uses home agents, home addresses and foreign agents to facilitate mobility
+bk=
+# Question 'bl': True or false: The role of Quality-of-Service is to ensure that sufficient bandwidth is available to network applications that have special needs, even if it means that latency must increase
+bl=
+# Question 'bm': True or false: The congestion control protocol of TCP determines the congestion window size by observing when packets are not delivered
+bm=
+# Question 'bn': True or false: Multiple priority queues in FIFO queuing are typically used to ensure that an equal number of packets from each queue are sent per unit time
+bn=
+# Question 'bo': True or false: Reverse Path Broadcast is used to prune networks that contain no members in a given multicast group
+bo=
+# Question 'bp': True or false: A significant routing problem is how to make it scale to billions of end nodes
+bp=
+# Question 'bq': True or false: The TCP Slow Start algorithm is used only at the commencement of a TCP connection
+bq=
+# Question 'br': True or false: Border Gateway Protocol is the only inter-domain routing protocol
+br=
+# Question 'bs': True or false: An example of one-to-many multicast would be radio station broadcast
+bs=
+# Question 'bt': True or false: The TCP Slow Start algorithm runs at the start of a connection, until the first packet loss occurs
+bt=
+# Question 'bu': True or false: "Integrated Services" is a fine-grained quality-of-service approach
+bu=
+# Question 'bv': True or false: UDP allows the multiplexing of traffic from multiple applications on a single host
+bv=
+# Question 'bw': True or false: TCP Fast Recovery uses outstanding ACKs following a Fast Retransmit to avoid the need for re-using the Slow Start algorithm
+bw=
+# Question 'bx': True or false: The advertised window field in the TCP header could be extended by several bits without messing up the sliding window protocol
+bx=
+# Question 'by': True or false: A Stub Autonomous System is analogous to a stub function in a program, and contains only exterior interfaces, and lacks internal nodes, and thus exists primarily to carry transit traffic.
+by=
+# Question 'bz': True or false: Congestion Collapse was implemented in TCP to improve network performance
+bz=
+# Question 'ca': True or false: Multicast forwarding table collectively specify a set of paths
+ca=
+# Question 'cb': True or false: Voice and video are the only network applications where Quality-of-Service should work to minimise latency. For all other applications bandwidth is the primary consideration
+cb=
+# Question 'cc': True or false: Soft-state of network flows helps routers to better handle traffic from that flow
+cc=
+# Question 'cd': True or false: The TSpec of a Flowspec describes the network service that has been requested
+cd=
+# Question 'ce': True or false: TCP uses a four-way handshake when establishing a connection
+ce=
+# Question 'cf': True or false: The UDP header contains source port, destination port, checksum and length fields
+cf=
+# Question 'cg': True or false: IPv6 improves on IPv4 by reducing the header size to increase payload size
+cg=
+# Question 'ch': True or false: If the TCP Slow Start algorithm is re-started, the Congestion Threshold is reset to 0
+ch=
+# Question 'ci': True or false: Neither TCP nor UDP is ideally suited to the needs of Remote Procedure Call (RPC)
+ci=
+# Question 'cj': True or false: Source-based Congestion Avoidance works by having routers provide a separate packet queue for each source
+cj=
+# Question 'ck': True or false: Allocating network resources with sufficient precision to avoid congestion is difficult
+ck=
+# Question 'cl': True or false: Randomised Early Detection (RED) does not drop packets if the average queue length is below some threshold
+cl=
+# Question 'cm': True or false: Congestion control exists to prevent senders from overrunning the capacity of intermediate devices and links on a network
+cm=
+# Question 'cn': True or false: Border Gateways are the routers through which packets enter and leave an Autonomous System
+cn=
+# Question 'co': True or false: In a reservation-based system, such as the Internet, each router allocates enough resources for a request. If the request cannot be met, the router rejects the reservation.
+co=
+# Question 'cp': True or false: It is common for intolerant real-time applications to mitigate their intolerance through delay adaptivity
+cp=
+# Question 'cq': True or false: When a mobile IP device moves networks, the home agent may need to send a binding warning notice
+cq=
+# Question 'cr': True or false: The role of a transport protocol is to present an unreliable network to applications as a reliable data transport
+cr=
+# Question 'cs': True or false: TCP will typically send a segment when it has the number of bytes required to fill a packet, the application has specifically requested it, or a timeout has occurred
+cs=
+# Question 'ct': True or false: Proxy ARP is used by home agents to intercept packets addressed to mobile nodes
+ct=
+# Question 'cu': True or false: It is common for large corporations to connect directly to one or more backbones
+cu=
+# Question 'cv': True or false: The TCP checksum field is calculated over data from only the TCP header
+cv=
+# Question 'cw': True or false: Border Gateway Protocol speakers must provide a replacement path when deleting a previously advertised path
+cw=
+# Question 'cx': True or false: IPv6 uses Classless Addressing/Routing, similar to IPv4 CIDR
+cx=
