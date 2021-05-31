@@ -82,70 +82,70 @@ bo=t
 # Question 'bp': True or false: A significant routing problem is how to make it scale to billions of end nodes
 bp=f
 # Question 'bq': True or false: The TCP Slow Start algorithm is used only at the commencement of a TCP connection
-bq=
+bq=f
 # Question 'br': True or false: Border Gateway Protocol is the only inter-domain routing protocol
-br=
+br=t
 # Question 'bs': True or false: An example of one-to-many multicast would be radio station broadcast
-bs=
+bs=t
 # Question 'bt': True or false: The TCP Slow Start algorithm runs at the start of a connection, until the first packet loss occurs
-bt=
+bt=f
 # Question 'bu': True or false: "Integrated Services" is a fine-grained quality-of-service approach
-bu=
+bu=t
 # Question 'bv': True or false: UDP allows the multiplexing of traffic from multiple applications on a single host
-bv=
+bv=t
 # Question 'bw': True or false: TCP Fast Recovery uses outstanding ACKs following a Fast Retransmit to avoid the need for re-using the Slow Start algorithm
-bw=
+bw=t
 # Question 'bx': True or false: The advertised window field in the TCP header could be extended by several bits without messing up the sliding window protocol
-bx=
+bx=t
 # Question 'by': True or false: A Stub Autonomous System is analogous to a stub function in a program, and contains only exterior interfaces, and lacks internal nodes, and thus exists primarily to carry transit traffic.
-by=
+by=f
 # Question 'bz': True or false: Congestion Collapse was implemented in TCP to improve network performance
-bz=
+bz=t
 # Question 'ca': True or false: Multicast forwarding table collectively specify a set of paths
-ca=
+ca=f
 # Question 'cb': True or false: Voice and video are the only network applications where Quality-of-Service should work to minimise latency. For all other applications bandwidth is the primary consideration
-cb=
+cb=t
 # Question 'cc': True or false: Soft-state of network flows helps routers to better handle traffic from that flow
-cc=
+cc=f
 # Question 'cd': True or false: The TSpec of a Flowspec describes the network service that has been requested
-cd=
+cd=f
 # Question 'ce': True or false: TCP uses a four-way handshake when establishing a connection
-ce=
+ce=f
 # Question 'cf': True or false: The UDP header contains source port, destination port, checksum and length fields
-cf=
+cf=t
 # Question 'cg': True or false: IPv6 improves on IPv4 by reducing the header size to increase payload size
-cg=
+cg=f
 # Question 'ch': True or false: If the TCP Slow Start algorithm is re-started, the Congestion Threshold is reset to 0
-ch=
+ch=f
 # Question 'ci': True or false: Neither TCP nor UDP is ideally suited to the needs of Remote Procedure Call (RPC)
-ci=
+ci=t
 # Question 'cj': True or false: Source-based Congestion Avoidance works by having routers provide a separate packet queue for each source
-cj=
+cj=f
 # Question 'ck': True or false: Allocating network resources with sufficient precision to avoid congestion is difficult
-ck=
+ck=t
 # Question 'cl': True or false: Randomised Early Detection (RED) does not drop packets if the average queue length is below some threshold
-cl=
+cl=f
 # Question 'cm': True or false: Congestion control exists to prevent senders from overrunning the capacity of intermediate devices and links on a network
-cm=
+cm=t
 # Question 'cn': True or false: Border Gateways are the routers through which packets enter and leave an Autonomous System
-cn=
+cn=t
 # Question 'co': True or false: In a reservation-based system, such as the Internet, each router allocates enough resources for a request. If the request cannot be met, the router rejects the reservation.
-co=
+co=f
 # Question 'cp': True or false: It is common for intolerant real-time applications to mitigate their intolerance through delay adaptivity
-cp=
+cp=t
 # Question 'cq': True or false: When a mobile IP device moves networks, the home agent may need to send a binding warning notice
-cq=
+cq=f
 # Question 'cr': True or false: The role of a transport protocol is to present an unreliable network to applications as a reliable data transport
-cr=
+cr=t
 # Question 'cs': True or false: TCP will typically send a segment when it has the number of bytes required to fill a packet, the application has specifically requested it, or a timeout has occurred
-cs=
+cs=f
 # Question 'ct': True or false: Proxy ARP is used by home agents to intercept packets addressed to mobile nodes
-ct=
+ct=t
 # Question 'cu': True or false: It is common for large corporations to connect directly to one or more backbones
-cu=
+cu=t
 # Question 'cv': True or false: The TCP checksum field is calculated over data from only the TCP header
-cv=
+cv=f
 # Question 'cw': True or false: Border Gateway Protocol speakers must provide a replacement path when deleting a previously advertised path
-cw=
+cw=f
 # Question 'cx': True or false: IPv6 uses Classless Addressing/Routing, similar to IPv4 CIDR
-cx=
+cx=t
