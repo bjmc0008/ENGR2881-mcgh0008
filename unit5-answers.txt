@@ -10,22 +10,22 @@
 #	0x0070:  5795 dcea 82                             W....
 # Question 'ab': For the supplied packet: TCP RST
 #        Format: Boolean: Answer Y or N
-ab=
+ab=Y
 # Question 'ac': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-ac=
+ac=1a:9d:af:6f:90:90
 # Question 'ad': For the supplied packet: IP ToS
-#        Format: Integer: Answer with the decimal value of the field.
-ad=
+#        Format: Integer: Answer with te decimal value of the field.
+ad=0
 # Question 'ae': For the supplied packet: TCP FIN
 #        Format: Boolean: Answer Y or N
-ae=
+ae=Y
 # Question 'af': For the supplied packet: IP FLAGS
 #        Format: Integer: Answer with the decimal value of the field.
-af=
+af=16384
 # Question 'ag': For the supplied packet: Frame is MPLS
 #        Format: Boolean: Answer Y or N
-ag=
+ag=N
 # Packet dump:
 #	0x0000:  59f5 de08 4a46 d459 2038 be27 8847 0000  Y...JF.Y.8.'.G..
 #	0x0010:  61d7 4500 007f 0000 4000 1206 0000 9e46  a.E.....@......F
