@@ -1,34 +1,37 @@
 ## Demonstrate an understanding of current methods for secure information transfer}
 # Question 'ab': Write not more than 250 words about 'political/commercial impacts on digital security'
 BEGIN:ab
+As more services are being offered online the issue of digital security and in particular the collection, ownership and secure transfer of private data becomes more important. For both individuals and companies how storing, securing and sharing data has evolved and become more complicated with the expansion and development of computers, networks and the internet. These issues are impacted by not only the individual but also political and commercial entities who write up laws, create policies and develop standards which are required to be followed and complied with by both companies and individuals. Laws that are created can affect some sectors more than others and cause companies to change how they operate and deliver their product or service to consumers. For example, anyone using cloud computing services in Australia is protected by law through the Privacy Act and Consumer Laws. This means cloud companies are required to take certain steps to ensure data is deleted or de-identifiable when no longer needed for the purposes for which it was collected. Some data is not allowed to be moved overseas and must be hosted in Australia especially when related to Australian citizens personal data such as health records or defence related. Another area where political and commercial interests can collide is in regard to encryption and cryptography with communication between individuals through encrypted services now available to law enforcement through anti-encryption laws in Australia. This requires companies that host or offer encrypted services to provide users data to law enforcement or government authorities on request.
 END:ab
 # Question 'ac': Write not more than 250 words about 'certificate authorities'
 BEGIN:ac
+One of the biggest problems of the early internet was the lack of trust between two users when performing some kind of transaction or communication online. This lack of trust would have an effect on all kinds of internet activities such as online shopping, submitting personal details, sending messages through email and messaging apps or even just plain casual browsing of websites. What this lack of trust boiled down to is three key areas including confidentiality, integrity and authentication. The solution to this problem was the Transport Layer Security protocol which allows for encrypted and safer browsing using https. This is all made possible thanks to certificates and Certificate Authorities in conjuncture with the browsers that trust these certificates. A Certificate Authority is a trusted third party that issues certificates primarily for owners of domains and once issued and configured allows the server to provide secure communication for visitors. A CA has the authority to issue public key certificates and are a critical part of the internet’s public key infrastructure (PKI) and building the chain of trust. A digital certificate contains information about the issuer and entity it has been issued to including name, contact information, public key and expiration date. There is also cryptographic data that is used to verify the owner of the digital certificate. There is only a handful of big global CA’s in the market which include the likes of Comodo, Symantec and GoDaddy with a combined market share of 65%.
 END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
 BEGIN:ad
+Elliptic Curves for Security – January 2016 – Elliptic curve cryptography is an approach to creating public and private keys for secure encryption. The main benefit over other systems such as RSA is that it has a smaller key size and is considered more secure. Having a smaller key size gives it the benefits of taking less time to encrypt and decrypt as well as the storage and transmission times being reduced. Just as public key encryption systems base their security on the idea that it is difficult to factor two large prime numbers to decrypt a private message an elliptic curve-based protocol uses the discrete logarithm problem (ECDLP). This means its strength is derived from the fact that finding the discrete logarithm of a random elliptic curve point is not possible. Although elliptic curves were first discovered and studied back in the mid 1980’s it is only around the early 2000’s that they have gained wider use. In January 2016 the Crypto Forum Research Group released RFC 7748 to standardise two new elliptic curves, Curve25519 and Curve448. This was done because of the perceived possible shortcomings and weaknesses of the curves defined by NIST (National Institute of Standards and Technology) which were developed more than 15 years earlier. These two new curves being looked at are more resistant to a wide range of side-channel attacks including timing and cache attacks.
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
-ae=
+ae=y
 # Question 'af': Write a false statement about the content of Slide 17 of Chapter 3
-af=
+af=Virtual Circuit Switching is a connectionless communication method meaning data may be delivered out of order.
 # Question 'ag': Write a true statement about the content of Slide 118 of Chapter 3
-ag=
+ag=Hardware is the typical way of implementing modern routers and switches for speed and efficiency.
 # Question 'ah': Write a true statement about the content of Slide 131 of Chapter 2
-ah=
+ah=The technique for a node selecting an access point is called scanning.
 # Question 'ai': Write a true statement about the content of Slide 8 of Chapter 3
-ai=
+ai=Adding new nodes to a network using a switch does not typically degrade the performance of currently connected nodes.
 # Question 'aj': Write a false statement about the content of Slide 123 of Chapter 2
-aj=
+aj=The exposed node problem occurs when a node is allowed to transmit with another node despite co channel interference.
 # Question 'ak': Write a true statement about the content of Slide 63 of Chapter 3
-ak=
+ak=A Virtual LAN is used to segregate traffic and improve a networks performance.
 # Question 'al': Write a true statement about the content of Slide 27 of Chapter 5
-al=
+al=The effective window is equal to the advertised window minus the sum of the last byte sent minus last byte acked.
 # Question 'am': Write a true statement about the content of Slide 1 of Chapter 3
 am=
 # Question 'an': Write a true statement about the content of Slide 123 of Chapter 2
-an=
+an=The exposed node problem occurs when a node concludes it can’t send a packet to another node because of co-channel interference.
 # Question 'ao': Write a true statement about the content of Slide 24 of Chapter 5
-ao=
+ao=TCP’s variant of the sliding window algorithm ensures data is delivered in order.
