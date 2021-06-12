@@ -39,22 +39,22 @@ ag=N
 #	0x0090:  aa                                       .
 # Question 'ah': For the supplied packet: TCP window size
 #        Format: Integer: Answer with the decimal value of the field.
-ah=
+ah=18034
 # Question 'ai': For the supplied packet: IP DSCP
 #        Format: Integer: Answer with the decimal value of the field.
-ai=
+ai=0
 # Question 'aj': For the supplied packet: TCP SYN
 #        Format: Boolean: Answer Y or N
-aj=
+aj=Y
 # Question 'ak': For the supplied packet: TCP sequence number
 #        Format: Integer: Answer with the decimal value of the field.
-ak=
+ak=0
 # Question 'al': For the supplied packet: Frame is 802.1ad
 #        Format: Boolean: Answer Y or N
-al=
+al=N
 # Question 'am': For the supplied packet: ETH source address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-am=
+am=d4:59:20:38:be:27
 # Packet dump:
 #	0x0000:  426b b2be e081 70e4 835e 53c8 0800 4500  Bk....p..^S...E.
 #	0x0010:  0074 0000 4000 0a11 0000 01ce 8ae3 95e8  .t..@...........
